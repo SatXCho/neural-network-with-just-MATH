@@ -8,6 +8,6 @@ I made this purely to smite [@gauthamk02](https://github.com/gauthamk02)
   <li>A character recognizer trained on EMNIST.</li>
   <li>Backward propagation GD Learning rate: 0.1</li>
   <li>May take a 1000 epochs to train to ~93% accuracy.</li>
-  <li>You might want to use mini-batch GD if you want to use this.</li>
+  <li>You might want to use mini-batch GD.</li>
 </ul>
 
